@@ -36,4 +36,4 @@ for (const value of numbers) {
 
 the for ... in loops over the indexes
 
-# for this project n need to memorize the syntexe but review the documentation about the drag and drop mdn 
+# for this project no need to memorize the syntexe just review the documentation about the drag and drop mdn 
