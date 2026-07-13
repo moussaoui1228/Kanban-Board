@@ -35,3 +35,5 @@ for (const value of numbers) {
 30
 
 the for ... in loops over the indexes
+
+# for this project n need to memorize the syntexe but review the documentation about the drag and drop mdn 
